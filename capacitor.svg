@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 80">
+
+<!-- left plate -->
+
+<rect x="20" y="10" width="4" height="60" fill="black"/>
+
+<!-- right plate -->
+
+<rect x="36" y="10" width="4" height="60" fill="black"/>
+
+</svg>

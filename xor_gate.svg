@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60">
+
+<!-- XOR extra curve -->
+
+<path d="M10 5 A40 40 0 0 0 10 55"
+stroke="black"
+stroke-width="4"
+fill="none"/>
+
+<!-- OR gate curve -->
+
+<path d="M20 5 A40 40 0 0 0 20 55"
+stroke="black"
+stroke-width="4"
+fill="none"/>
+
+<!-- front curve -->
+
+<path d="M20 5 Q90 30 20 55"
+stroke="black"
+stroke-width="4"
+fill="none"/>
+
+</svg>
