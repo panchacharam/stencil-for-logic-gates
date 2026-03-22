@@ -22,4 +22,4 @@ Stunning Lappi.stl – 3D printable stencil
 3. Use a pencil to trace logic gate shapes
 
 ## Designed By
-Ilayaraja – Electronics Engineering Student
+panchacharam – Electronics Engineering Student
